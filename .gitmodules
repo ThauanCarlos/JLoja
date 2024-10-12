@@ -1,0 +1,3 @@
+[submodule "JLoja"]
+	path = JLoja
+	url = https://github.com/ThauanCarlos/JLoja.git
